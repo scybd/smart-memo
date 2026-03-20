@@ -1,5 +1,6 @@
 # SmartMemo（智能备忘录）
 ![封面](./img/sm.png)
+- [视频演示](https://www.bilibili.com/video/BV1hy411i7TY/)
 
 ## 已实现功能
 1. 文本输入，文本输出备忘事项和时间
